@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ARCore Demo</string>
+    <string name="place">Place wolf</string>
+
+    <string name="opengl_version_required">Sceneform are nevoie de minim versiunea 3.0 de OpenGL ES</string>
+    <string name = "camera_permission_rationale">You need enable the camera permission in order to use camera</string>
+
+</resources>
